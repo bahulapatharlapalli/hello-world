@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register for the learning</h1>
+    <h1>Nonsense ibidibidbi</h1>
     <p>Devops learning</p>
     <hr>
      

@@ -5,8 +5,12 @@
     <hr>
      
     <div>Hello How are you</div>
-    <label for="Name"><b>Enter your first and last Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <label for="Name"><b>Enter your first Name</b></label>
+    <input type="text" placeholder="Enter First Name" name="Name" id="Name" required>
+    <br>
+    
+    <label for="Name"><b>Enter your  last Name</b></label>
+    <input type="text" placeholder="Enter Last Name" name="Name" id="Name" required>
     <br>
     
     
